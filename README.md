@@ -57,8 +57,8 @@ An interactive Streamlit-based dashboard that visualizes, analyzes, and predicts
 - Add farmer-level recommendations for best practices.
 
 👩‍💻 Author
-Kusumm Maharjan - https://github.com/avii-001
-Kushpun Balami
-Aliza Adhikari
-Austin Karki
-Narayan
+  - `Kusumm Maharjan` - https://github.com/avii-001
+  - `Kushpun Balami`
+  - `Aliza Adhikari`
+  - `Austin Karki`
+  - `Narayan`
