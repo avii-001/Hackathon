@@ -25,8 +25,6 @@ An interactive Streamlit-based dashboard that visualizes, analyzes, and predicts
   - `Rainfall_mm`
   - `Yield_kg_per_hectare`
 
-> *Ensure the dataset is present in the root folder for the app to run properly.*
-
 ## 🛠️ Technologies Used
 
 - [Streamlit](https://streamlit.io/) – for building the dashboard UI
