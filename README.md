@@ -58,7 +58,7 @@ An interactive Streamlit-based dashboard that visualizes, analyzes, and predicts
 
 👩‍💻 Author
   - `Kusumm Maharjan` - https://github.com/avii-001
-  - `Kushpun Balami`
+  - `Kushpun Balami` - https://github.com/kashpunbalami
   - `Aliza Adhikari` - alizaadhikari198@gmail.com
   - `Austin Karki` - austinkarki2001@gmail.com
   - `Narayan` - https://github.com/Narayan210
